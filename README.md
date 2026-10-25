@@ -1,44 +1,41 @@
-# Hi, I'm an AI Data Trainer and Annotation Specialist 👋
-
-I'm building my portfolio around AI training, LLM response evaluation, data annotation, and quality assurance.
-
-I enjoy analyzing AI-generated responses, checking factual accuracy, following detailed evaluation guidelines, and providing structured feedback to improve data and model quality.
-
-## 🔍 Areas of Focus
-
-- **LLM Response Evaluation** — assessing accuracy, relevance, clarity, and instruction-following.
-- **Data Annotation** — applying consistent labels and documenting annotation decisions.
-- **Quality Assurance** — checking consistency, identifying errors, and documenting limitations.
-- **Evaluation Documentation** — creating rubrics, reports, and structured feedback.
-
-## 📂 Portfolio Projects
+## Featured Projects
 
 ### 1. LLM Response Evaluation
-A demonstration project covering rubric-based scoring, error identification, and structured evaluation reporting.
+A structured evaluation project demonstrating how to assess AI-generated responses for factual accuracy, relevance, instruction-following, and clarity.
 
-Repository: [llm-response-evaluation](https://github.com/archces03-cpu/llm-response-evaluation)
+- Evaluation samples and scoring rubric
+- Evaluation report highlighting critical factual errors
+- Quality assurance and limitations documentation
 
-### 2. Data Annotation and Quality Assurance
-A demonstration project covering sentiment classification, annotation guidelines, quality checks, and dataset limitations.
+[View Project](https://github.com/archces03-cpu/llm-response-evaluation)
 
-Repository: [data-annotation-qa](https://github.com/archces03-cpu/data-annotation-qa)
+### 2. Data Annotation & Quality Assurance
+A sentiment annotation project demonstrating consistent labeling, annotation guidelines, and dataset quality checks.
 
-## 🛠️ Skills
+- Labeled sentiment samples, including mixed sentiment
+- Annotation guidelines and decision rules
+- QA report and limitations documentation
 
-- AI response evaluation
-- Text annotation and classification
-- Rubric-based assessment
-- Dataset quality checks
-- Error categorization
-- Structured written feedback
-- CSV data handling
+[View Project](https://github.com/archces03-cpu/data-annotation-qa)
 
-## 🌍 Location and Opportunities
+### 3. AI Response Comparison
+A project demonstrating how to compare two AI-generated responses and select the stronger answer using structured evaluation criteria.
 
-Based in Kenya and interested in remote opportunities in AI training, LLM evaluation, data annotation, and AI data quality.
+- Side-by-side response comparisons
+- Scoring rubric and evaluation guidelines
+- Analysis of factual errors and instruction-following
+- Evaluation report and limitations documentation
 
-I'm continuing to develop practical examples that demonstrate consistent evaluation, careful reasoning, and clear documentation.
+[View Project](https://github.com/archces03-cpu/ai-response-comparison)
 
-## 📫 Connect
+## Core Skills
 
-Feel free to explore my repositories and review the sample projects.
+- LLM Response Evaluation
+- AI Data Annotation
+- Factual Accuracy Assessment
+- Instruction-Following Evaluation
+- Dataset Quality Assurance
+- Annotation Guidelines
+- Structured Feedback
+- Error Identification and Reporting
+
